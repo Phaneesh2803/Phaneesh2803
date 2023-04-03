@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Phaneesh2803
-- 👀 I’m interested in Data science,Python,Projects
-- 🌱 I’m currently learning Machine Learning,Deep Learning
+- 👀 I’m interested in Data science,Android development,web development 
+- 🌱 I’m currently learning Java, C, web development. 
 - 💞️ I’m looking to collaborate on Projects and Internships
 - 📫 How to reach me using my mail id:9920004723@klu.ac.in
 
